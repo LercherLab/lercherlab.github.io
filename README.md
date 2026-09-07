@@ -39,7 +39,7 @@ Keep the same filenames so the site keeps working — just replace the file cont
 |---|---|
 | `images/banner.png` | Homepage banner photo |
 | `images/alexander-lercher.jpg` | Team photo |
-| `images/hannah-simonis.jpg` | Team photo |
+| `images/predoctoral-fellow.jpg` | Team photo |
 | `images/technical-assistant.jpg` | Team photo (placeholder) |
 | `images/PhD-student.jpg` | Team photo (placeholder) |
 | `images/logo-chs.png` | CHS Stiftung funding logo |
